@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prefix and postfix mode", "prefix and postfix mode\prefix and postfix mode.vcxproj", "{76633478-4EBC-4B64-ACFC-09F58A26BE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76633478-4EBC-4B64-ACFC-09F58A26BE50}.Debug|Win32.ActiveCfg = Debug|Win32
+		{76633478-4EBC-4B64-ACFC-09F58A26BE50}.Debug|Win32.Build.0 = Debug|Win32
+		{76633478-4EBC-4B64-ACFC-09F58A26BE50}.Release|Win32.ActiveCfg = Release|Win32
+		{76633478-4EBC-4B64-ACFC-09F58A26BE50}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
